@@ -4,3 +4,4 @@ git clone
 grt push
 get init
 git pull
+git commands
