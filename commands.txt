@@ -3,3 +3,4 @@ git status
 git clone
 grt push
 get init
+git pull
